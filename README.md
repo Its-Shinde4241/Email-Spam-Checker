@@ -20,6 +20,15 @@ Email Spam Checker is a Python-based project that helps identify and filter spam
    ```bash
    npm run install-all
    ```
+## Snapshots
+
+Here are some snapshots of the Email Spam Checker in action:
+
+### Home Screen
+![image](https://github.com/user-attachments/assets/3d63f30b-d90c-40bb-9745-10452536d742)
+
+### Spam Detection Result
+![image](https://github.com/user-attachments/assets/3a75564a-1650-4358-b675-f2c988d269bf)
 
 ## Usage
 
@@ -33,6 +42,8 @@ Email Spam Checker is a Python-based project that helps identify and filter spam
    ```bash
    in dev mode :
    npm run dev
+   ```
+   ```bash
    in production :
    npm start
    ```

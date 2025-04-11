@@ -40,11 +40,6 @@ Here are some snapshots of the Email Spam Checker in action:
 
 2. Run the App:
    ```bash
-   in dev mode :
-   npm run dev
-   ```
-   ```bash
-   in production :
    npm start
    ```
 3. Input the email content to check if it is spam or not.
